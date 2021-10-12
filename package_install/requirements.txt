@@ -58,7 +58,7 @@ nltk==3.3
 notebook==5.6.0
 np-utils==0.5.5.0
 numpy==1.14.5
-opencv-python==3.4.1.15
+opencv-python==3.4.7.28
 osqp==0.3.1
 pandas==0.23.3
 pandocfilters==1.4.2
